@@ -1,6 +1,8 @@
 odh-s2i-project-simple
 ==============================
 
+//Testing ability to update from JH
+
 Simple, unstructured, and unopinionated project for data science that is deployable as an OpenShift s2i Application.
 
 The purpose is to allow data science exploration to easily transition into deployed services and applications on the OpenShift platform.
